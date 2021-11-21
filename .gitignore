@@ -1,0 +1,24 @@
+# production
+/build
+
+# Logs
+*.log
+
+# Lock Files
+package-lock.json
+yarn.lock
+
+# dependencies
+/node_modules
+
+
+# env
+.env
+
+# testing
+/coverage
+*.test.js.snap
+__snapshots__/
+test-report.xml
+
+
